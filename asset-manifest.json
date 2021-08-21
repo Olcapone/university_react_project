@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/university_react_project/static/css/main.a617e044.chunk.css",
-    "main.js": "/university_react_project/static/js/main.fcb5baea.chunk.js",
-    "main.js.map": "/university_react_project/static/js/main.fcb5baea.chunk.js.map",
-    "runtime-main.js": "/university_react_project/static/js/runtime-main.a00aab52.js",
-    "runtime-main.js.map": "/university_react_project/static/js/runtime-main.a00aab52.js.map",
-    "static/js/2.5bdc6f64.chunk.js": "/university_react_project/static/js/2.5bdc6f64.chunk.js",
-    "static/js/2.5bdc6f64.chunk.js.map": "/university_react_project/static/js/2.5bdc6f64.chunk.js.map",
-    "static/js/3.d1e0dacf.chunk.js": "/university_react_project/static/js/3.d1e0dacf.chunk.js",
-    "static/js/3.d1e0dacf.chunk.js.map": "/university_react_project/static/js/3.d1e0dacf.chunk.js.map",
+    "main.css": "/university_react_project/static/css/main.8ea6f7dd.chunk.css",
+    "main.js": "/university_react_project/static/js/main.d5e0dcda.chunk.js",
+    "main.js.map": "/university_react_project/static/js/main.d5e0dcda.chunk.js.map",
+    "runtime-main.js": "/university_react_project/static/js/runtime-main.edd1f213.js",
+    "runtime-main.js.map": "/university_react_project/static/js/runtime-main.edd1f213.js.map",
+    "static/js/2.fcb33268.chunk.js": "/university_react_project/static/js/2.fcb33268.chunk.js",
+    "static/js/2.fcb33268.chunk.js.map": "/university_react_project/static/js/2.fcb33268.chunk.js.map",
+    "static/js/3.d677c654.chunk.js": "/university_react_project/static/js/3.d677c654.chunk.js",
+    "static/js/3.d677c654.chunk.js.map": "/university_react_project/static/js/3.d677c654.chunk.js.map",
     "index.html": "/university_react_project/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/university_react_project/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.5bdc6f64.chunk.js.LICENSE.txt": "/university_react_project/static/js/2.5bdc6f64.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/university_react_project/static/media/logo.6ce24c58.svg"
+    "static/css/main.8ea6f7dd.chunk.css.map": "/university_react_project/static/css/main.8ea6f7dd.chunk.css.map",
+    "static/js/2.fcb33268.chunk.js.LICENSE.txt": "/university_react_project/static/js/2.fcb33268.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a00aab52.js",
-    "static/js/2.5bdc6f64.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.fcb5baea.chunk.js"
+    "static/js/runtime-main.edd1f213.js",
+    "static/js/2.fcb33268.chunk.js",
+    "static/css/main.8ea6f7dd.chunk.css",
+    "static/js/main.d5e0dcda.chunk.js"
   ]
 }
