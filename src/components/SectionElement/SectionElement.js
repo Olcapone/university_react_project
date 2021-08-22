@@ -1,9 +1,3 @@
-import React from "react";
+//import React from "react";
 
-export default function Button({ nameButton, onSubmit }) {
-  return (
-    <button type="submit" onClick={onSubmit}>
-      {nameButton}
-    </button>
-  );
-}
+export default function Button({ nameButton, onSubmit }) {}
