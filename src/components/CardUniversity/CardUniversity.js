@@ -4,8 +4,6 @@ import { HiPencilAlt, HiTrash } from "react-icons/hi";
 import s from "./CardUniversity.module.css";
 
 export default function CardUniversity() {
-  console.log(image);
-
   return (
     <article className={s.article}>
       <div className={s.wrap}>

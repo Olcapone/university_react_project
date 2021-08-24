@@ -5,9 +5,9 @@ import Title from "../Title/Title";
 
 export default function Description() {
   return (
-    <>
+    <div className={s.section}>
       <Title text={"Информация о университете"} />
-      <section className={s.section}>
+      <section className={s.container}>
         <CardUniversity />
         <p className={s.description}>
           Опыт, концентрат знаний и возможность избежать большинство ошибок при
@@ -20,6 +20,6 @@ export default function Description() {
           большинство людей приходят к нам с нулевыми знаниями.
         </p>
       </section>
-    </>
+    </div>
   );
 }

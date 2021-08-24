@@ -30,6 +30,7 @@
 
 .iconsBox {
   display: flex;
+  margin-top: 8px;
 }
 
 .icon > svg {
