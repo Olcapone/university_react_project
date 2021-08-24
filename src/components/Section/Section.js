@@ -39,7 +39,7 @@ export default class Section extends Component {
   handleRemove = (e) => {
     this.setState({
       cities: this.state.cities.filter(
-        (city) => city.value !== e.target.previousSibling.nodeValue
+        (city) => !e.target.parentNode.textContent.includes(city.value)
       ),
     });
   };
